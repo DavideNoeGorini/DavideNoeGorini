@@ -1,5 +1,5 @@
 - 👋 Davide Noè Gorini
-- 👀 Assistant Professor at the University of Trento
+- 👀 Associate Professor at the University of Trento
 - 📫 davidenoe.gorini@unitn.it
 - 📫 Google Scholar profile: https://scholar.google.it/citations?user=pAx7LqUAAAAJ&hl=it
 
